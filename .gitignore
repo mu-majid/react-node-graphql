@@ -24,3 +24,5 @@ client/yarn-error.log*
 
 # dependencies
 server/node_modules
+config.bat
+node_modules
